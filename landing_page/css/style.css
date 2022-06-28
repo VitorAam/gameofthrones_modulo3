@@ -20,17 +20,35 @@ body {
     text-align: center;
 }
 
-header {
+#navbar {
     margin: 10px;
     display: flex;
-    flex-direction: column;
-    justify-content: space-around;
+    flex-direction: row;
+    justify-content: space-between;
     flex-wrap: wrap;
+}
+
+#nav-items{
+    width: auto;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
 }
 
 a {
     text-decoration: none;
     color: white;
+}
+
+.nav-item{
+    color: #D4DDEE;
+    padding: 0.3%;
+    align-self: center;
+}
+
+.nav-item:hover{
+    background-color: #D4DDEE;
+    color: #171717;
 }
 
 footer {
