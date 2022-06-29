@@ -10,7 +10,7 @@ Projeto baseado em banco de dados disponibilizado pela resília e complementado 
 <br>
 <br>
 Foram feitas pesquisas no banco de dados relacionadas a perguntas interessantes e curiosidades que julgamos interessantes.
-
+<br>
 Ideia desenvolvida e planejada com todo o conhecimento adquirido ao longo do curso pela nossa equipe de desenvolvimento.
 
 
