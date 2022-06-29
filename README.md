@@ -36,7 +36,7 @@ Para contribuir e melhorar o código, é necessario fazer um fork do projeto (re
 Após feitas as melhorias que deseja, nos envie através de colaboração GitHub. Teremos prazer em analisar sua contruição e, quem sabe, incluir em nosso projeto. Sinta-se livre, amamos criatividade.
 
 Explore... o nosso site
-O Game Of Thrones - DATA está no Github pages e pode ser acessada lo link https://vitoraam.github.io/gameofthrones_modulo3/landing_page/index.html
+O Game Of Thrones - DATA está no Github pages e pode ser acessado pelo link https://vitoraam.github.io/gameofthrones_modulo3/landing_page/index.html
 
 
 
