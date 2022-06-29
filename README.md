@@ -2,10 +2,10 @@
 <br>
 <br>
 
-Game Of Thrones - DATA
+<h1>Game Of Thrones - DATA</h1>
 Projeto pre-requisto para obtenção do certificado do terceiro módulo do curso de WebDev FullStack da Resilia Educação
 
-Sobre o projeto
+<h2>Sobre o projeto</h2>
 Projeto baseado em banco de dados disponibilizado pela resília e complementado por nossa equipe, contém os arquivos para implementação do banco de dados no MySQL e landing page para apresentação.
 
 Foram feitas pesquisas no banco de dados relacionadas a perguntas interessantes e curiosidades que pensamos.
@@ -14,7 +14,7 @@ Ideia desenvolvida e planejada com todo o conhecimento adquirido ao longo do cur
 
 
 
-Tecnologias Utlizadas
+<h2>Tecnologias Utlizadas</h2>
 HTML5
 
 CSS3
@@ -26,7 +26,7 @@ MySQL
 Bootstrap
 
 
-Pré-requisitos para utilização
+<h2>Pré-requisitos para utilização</h2>
 Para rodar a landing page, é necessário um navegador web que suporte as tecnologias utilizadas.
 
 Site está resposivo, então pode ser acessado em dispositivos de qualquer tamanho.
@@ -40,7 +40,7 @@ O Game Of Thrones - DATA está no Github pages e pode ser acessada lo link https
 
 
 
-Nossa Equipe
+<h2>Nossa Equipe</h2>
 Leticia Martins
 
 Luciano Paiva
