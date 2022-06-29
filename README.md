@@ -16,13 +16,13 @@ Ideia desenvolvida e planejada com todo o conhecimento adquirido ao longo do cur
 
 <h2>Tecnologias Utlizadas</h2>
 HTML5
-
+<br>
 CSS3
-
+<br>
 Javascript
-
+<br>
 MySQL
-
+<br>
 Bootstrap
 
 
@@ -41,12 +41,12 @@ O Game Of Thrones - DATA está no Github pages e pode ser acessada lo link https
 
 
 <h2>Nossa Equipe</h2>
-Leticia Martins
-
-Luciano Paiva
-
+Leticia Martins https://github.com/letxns
+<br>
+Luciano Paiva https://github.com/kensku
+<br>
 Nodja Lima https://github.com/NodjaLima
-
-Fernando Patrick
-
-Vitor Augusto
+<br>
+Fernando Patrick https://github.com/FernandoPatrick
+<br>
+Vitor Augusto https://github.com/VitorAam
