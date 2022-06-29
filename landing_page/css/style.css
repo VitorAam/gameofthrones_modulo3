@@ -57,13 +57,14 @@ body {
     font-family: "got";
 }
 
-.curiosidades {
+#curiosidades {
     background-color:#f3f2ef ;
+    color: #f3f2ef;
     height: 400px;
-    font-family: "got";
+    font-family: 'Lato', sans-serif;
     text-align: center;
     padding: 50px;
-     background-image: url(../img/background.jpg);
+    background-image: url(../img/background-curiosidades.jpg);
     background-position: center;
     min-height: 600px;
     background-size: cover;
@@ -71,7 +72,15 @@ body {
     background-attachment: fixed;
 }
 
+.texto-curiosidades{
+  text-align: start;
+  font-size: 1.1em;
+  margin-top: 2%;
+}
 
+.texto-curiosidades li{
+  margin-bottom: 3%;
+}
 
 .perguntas {
     background-color: #a9a9a9;
