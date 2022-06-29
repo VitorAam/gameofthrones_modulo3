@@ -3,7 +3,7 @@
 <br>
 
 <h1>Game Of Thrones - DATA</h1>
-Projeto pre-requisto para obtenção do certificado do terceiro módulo do curso de WebDev FullStack da Resilia Educação
+Projeto pré-requisto para obtenção do certificado do terceiro módulo do curso de WebDev FullStack da Resilia Educação
 
 <h2>Sobre o projeto</h2>
 Projeto baseado em banco de dados disponibilizado pela resília e complementado por nossa equipe, contém os arquivos para implementação do banco de dados no MySQL e landing page para apresentação.
