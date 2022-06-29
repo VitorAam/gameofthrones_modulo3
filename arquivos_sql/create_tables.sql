@@ -11,16 +11,16 @@ CREATE TABLE `casas` (
 );
 
 CREATE TABLE `personagem` (
-    id_personagem INT AUTO_INCREMENT PRIMARY KEY,
-    nome_personagem VARCHAR(255),
-    nome_autor VARCHAR(255),
-    id_casa INT,
-    FOREIGN KEY (id_casa)
-        REFERENCES casas (id_casa),
+    personagem_id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(255),
+    ator VARCHAR(255),
     qnt_episodios INT,
     primeira_aparicao INT,
     ultima_aparicao INT,
-    sexo VARCHAR(1)
+    sexo VARCHAR(1),
+    id_casa INT,
+    FOREIGN KEY (id_casa)
+        REFERENCES casas (id_casa)
 );
 
 CREATE TABLE `episodios` (
