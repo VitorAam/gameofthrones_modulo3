@@ -7,8 +7,9 @@ Projeto pré-requisto para obtenção do certificado do terceiro módulo do curs
 
 <h2>Sobre o projeto</h2>
 Projeto baseado em banco de dados disponibilizado pela resília e complementado por nossa equipe, contém os arquivos para implementação do banco de dados no MySQL e landing page para apresentação.
-
-Foram feitas pesquisas no banco de dados relacionadas a perguntas interessantes e curiosidades que pensamos.
+<br>
+<br>
+Foram feitas pesquisas no banco de dados relacionadas a perguntas interessantes e curiosidades que julgamos interessantes.
 
 Ideia desenvolvida e planejada com todo o conhecimento adquirido ao longo do curso pela nossa equipe de desenvolvimento.
 
