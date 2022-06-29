@@ -1,4 +1,6 @@
-<img>
+![Logo_Game_of_Thrones](https://user-images.githubusercontent.com/95655990/176547202-401bc8d9-876c-49c2-8bb9-28ec52b7d553.png)
+<br>
+<br>
 
 Game Of Thrones - DATA
 Projeto pre-requisto para obtenção do certificado do terceiro módulo do curso de WebDev FullStack da Resilia Educação
