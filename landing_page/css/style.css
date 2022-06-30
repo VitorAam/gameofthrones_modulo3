@@ -110,6 +110,10 @@ body {
     margin-bottom: 30px;
     font-size: 3rem;
 }
+
+.carouselExampleIndicators {
+  width: 60%;
+}
   
 .contatos {
     display: flex;
