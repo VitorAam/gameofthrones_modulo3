@@ -26,6 +26,8 @@ Javascript
 MySQL
 <br>
 Bootstrap
+<br>
+Metabase
 
 
 <h2>Pré-requisitos para utilização</h2>
