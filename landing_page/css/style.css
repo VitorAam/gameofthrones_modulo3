@@ -92,13 +92,13 @@ body {
 
 .perguntas {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
   background-image: url(../img/background.jpg);
-  margin-bottom: 100px;
   padding: 30px;
   padding-top: auto;
   height: 800px;
@@ -107,6 +107,8 @@ body {
 .perguntas h2 {
     text-align: center;
     font-family: "got";
+    margin-bottom: 30px;
+    font-size: 3rem;
 }
   
 .contatos {
@@ -163,6 +165,14 @@ body {
 
 h1 {
    font-size: 1.7rem;
+}
+
+.sessao_contatos {
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-image: url(../img/bot.jpg);
+  padding-top: 100px;
 }
 
 .conteudo-contatos {
