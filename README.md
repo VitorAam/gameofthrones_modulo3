@@ -14,6 +14,14 @@ Foram feitas pesquisas no banco de dados relacionadas a perguntas interessantes 
 <br>
 Ideia desenvolvida e planejada com todo o conhecimento adquirido ao longo do curso pela nossa equipe de desenvolvimento.
 
+<h2>Nossa proposta</h2>
+
+Oferecer um serviço de analise de dados para quem quer investir na industria cinematógrafica. Oferecemos a possibilidade de aprender com uma grande produção, como foi GOT, para que o seu projeto tenha ainda mais chance de sucesso. 
+
+A escolha de GOT como exemplo do tipo de análise que pode ser realizada, se deu devido aos numeros impressionantes que a serie teve. Tanto para os fãs como para quem investiu no projeto do universo de Game Of Thrones, o retorno foi muito maior que o esperado.
+
+<h2>Nossos Gráficos</h2>
+
 
 
 <h2>Tecnologias Utlizadas</h2>
