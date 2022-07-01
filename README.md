@@ -24,33 +24,6 @@ A escolha de GOT como exemplo do tipo de análise que pode ser realizada, se deu
 
 ![grafic1](https://user-images.githubusercontent.com/102417680/176801822-71125fa3-0c5f-4c2d-a1f0-e44908d20c95.png)
 
-
-<h2>Tecnologias Utlizadas</h2>
-HTML5
-<br>
-CSS3
-<br>
-Javascript
-<br>
-MySQL
-<br>
-Bootstrap
-<br>
-Metabase
-
-
-<h2>Pré-requisitos para utilização</h2>
-Para rodar a landing page, é necessário um navegador web que suporte as tecnologias utilizadas.
-
-Site está resposivo, então pode ser acessado em dispositivos de qualquer tamanho.
-
-Para contribuir e melhorar o código, é necessario fazer um fork do projeto (repositório https://github.com/VitorAam/gameofthrones_modulo3), para isso utilize a ferramenta GIT Bash e o seu editor de codigos favorito. A nossa equipe é usuária de VSCode.
-
-Após feitas as melhorias que deseja, nos envie através de colaboração GitHub. Teremos prazer em analisar sua contruição e, quem sabe, incluir em nosso projeto. Sinta-se livre, amamos criatividade.
-
-<h2>Explore as curiosidades</h2>
-O Game Of Thrones - DATA está no Github pages e pode ser acessado pelo link https://vitoraam.github.io/gameofthrones_modulo3/landing_page/index.html
-
 Qual episódio possui maior/menor índice de review de usuários? 
 
 De acordo com nosso banco de dados, The Iron Throne foi o episódio com maior número de reviews de usuários. Esse dado pode ser explicado através do fato de ter sido o último episódio de uma saga que, conforme visto, mobilizou milhões de pessoas. Dessa maneira, a expectativa do público em relação ao episódio mencionado era enorme. O episódio com menor nº de reviews foi The Prince of Winterfell (ep8, temporada2), empatado  com The Climb (ep6, temporada 2). Embora possuam menor número de reviews, ambos os episódios tiveram notas próximas a 9.
@@ -88,6 +61,32 @@ Qual o ator/atriz mais aparece como estrela principal nos ep com nota acima de 9
 
 É uma tabela semelhante com a de top 10 atores, mas aqui é priorizada a análise qualitativa e não quantitativa, por mais que em alguns pontos muito se correlacione as duas tabelas e tragam alguns resultados positivos é possível notar que podem existir causas para personagens aqui presentes não terem aparecido em tantos episódios, como um fim da sua história ou outros pontos, e devido ao apego dos fãs sobre determinados personagens é explicado a leve queda de nota em episódios que esse personagem já não mais aparecem. Existem outros pontos que podem se correlacionar como a destreza do ator ou atriz em específico em trazer uma boa amarra para a história por meio da sua atuação ou tão somente pelo storytelling do personagem específico ter uma trama forte.
 
+
+<h2>Tecnologias Utlizadas</h2>
+HTML5
+<br>
+CSS3
+<br>
+Javascript
+<br>
+MySQL
+<br>
+Bootstrap
+<br>
+Metabase
+
+
+<h2>Pré-requisitos para utilização</h2>
+Para rodar a landing page, é necessário um navegador web que suporte as tecnologias utilizadas.
+
+Site está resposivo, então pode ser acessado em dispositivos de qualquer tamanho.
+
+Para contribuir e melhorar o código, é necessario fazer um fork do projeto (repositório https://github.com/VitorAam/gameofthrones_modulo3), para isso utilize a ferramenta GIT Bash e o seu editor de codigos favorito. A nossa equipe é usuária de VSCode.
+
+Após feitas as melhorias que deseja, nos envie através de colaboração GitHub. Teremos prazer em analisar sua contruição e, quem sabe, incluir em nosso projeto. Sinta-se livre, amamos criatividade.
+
+<h2>Explore as curiosidades</h2>
+O Game Of Thrones - DATA está no Github pages e pode ser acessado pelo link https://vitoraam.github.io/gameofthrones_modulo3/landing_page/index.html
 
 <h2>Nossa Equipe</h2>
 Leticia Martins https://github.com/letxns
