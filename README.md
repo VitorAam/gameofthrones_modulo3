@@ -36,26 +36,27 @@ O episódio de maior duração se chama Long Night (ep3, temporada8), que conta 
 
 Analisando a média de notas dos expectadores por temporadas, é possível perceber que a ultima temporada, onde houveram mudanças no roteiro e direção, foi a que sofreu uma queda brusca na média de avaliação. 
 
-PRECISA COLOCAR O GRAFICO AQUI, NAO CONSEGUI
+![casa_regiao_personagens](https://user-images.githubusercontent.com/95655990/176921636-b783952c-c68f-450c-98dc-dd01298137c2.png)
 
 Relação de casas, regiões e personagens
 
 Esse gráfico serve para atender ao fandom de GOT. Os fãs de GOT podem se interessar pelo fato de que a região que concentra a maior parte das casas do universo não é a região de onde saem os principais personagens da serie. A região de Westerlands, de onde vem toda a casa Lannister e seus personagens iconicos, seguida da regiao North e toda a legião dos dignos e sofridos Stark, e após a região de Crownlands que é a região governada diretamente por quem ocupa o trono de ferro (sem lord responsável) e de onde saíram os membros da casa Targaryen, são as regiões que nos fornecem o maior numero de atores principais. Vemos que o jogo dos tronos é reflexo de nossa sociedade, onde poucos, geralmente advindos dos mesmos lugares, de acordo com seu background familiar e social, ascendem. Essa relação do universo de fantasia com a nossa sociedade trás apego e torna ainda mais fieis os expectadores que se identifcam com as situações vistas na tela.
 
-PRECISA COLOCAR O GRAFICO AQUI, NAO CONSEGUI
+![dez_atores_aparecem](https://user-images.githubusercontent.com/95655990/176921706-5167953e-837d-4cd2-88d2-9776abfe10a3.png)
 
 Top 10 Atores que mais aparecem em mais episodios
 
 Nesse grafico é possível ver os 10 atores que mais aparecem em episodios ao longo de toda a serie. Para quem busca formar o elenco de uma nova serie ou filme e deseja um rosto conhecido para valorizar o cartaz de sua produção, nós temos aqui 10 nomes que com certeza atraírão expectadores entre os milhares de fãs de GOT.
 Organizamos esse recurso visual para que possamos associar os atores aos personagens, ordenados de forma decrescente pela quantidade de episodios em que o ator trabalhou.
 
-PRECISA COLOCAR O GRAFICO AQUI, NAO CONSEGUI
+![gasto_ep_nota_sete_nota_nove](https://user-images.githubusercontent.com/95655990/176921766-de1a4859-d271-4d19-b714-df1042fb35bb.png)
 
 Quanto foi gasto nos episódios com nota acima de 9 e quanto nos episódios com nota abaixo de 7
 
 A correlação entre a nota dada ao episódio/temporada e o seu respectivo gasto é o ponto chave desse gráfico e alinha o conceito do que é esperado de um orçamento adequado para produzir uma série dessa magnitude. Podemos perceber pela análise do gráfico que por mais que o orçamento disponível na temporada final tenha crescido, chegando a média de 15 milhões por episódio, a qualidade da avaliação caiu drasticamente da média que vinha se mantendo. Por isso a importância da nossa análise de dados, com o nosso produto você consegue reduzir custos e focar no que realmente importa nessa área, como um bom storytelling e uma conclusão que atenda expectativas ou as supere.
 
-PRECISA COLOCAR O GRAFICO AQUI, NAO CONSEGUI
+![qual_o_ator_nota_nove](https://user-images.githubusercontent.com/95655990/176921814-766e9861-7401-4254-87f8-25ab99ff40c5.png)
+
 
 Qual o ator/atriz mais aparece como estrela principal nos ep com nota acima de 9
 
