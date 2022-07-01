@@ -22,6 +22,7 @@ A escolha de GOT como exemplo do tipo de análise que pode ser realizada, se deu
 
 <h2>Nossos Gráficos</h2>
 
+![grafic1](https://user-images.githubusercontent.com/102417680/176801822-71125fa3-0c5f-4c2d-a1f0-e44908d20c95.png)
 
 
 <h2>Tecnologias Utlizadas</h2>
