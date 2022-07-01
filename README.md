@@ -51,6 +51,42 @@ Após feitas as melhorias que deseja, nos envie através de colaboração GitHub
 <h2>Explore as curiosidades</h2>
 O Game Of Thrones - DATA está no Github pages e pode ser acessado pelo link https://vitoraam.github.io/gameofthrones_modulo3/landing_page/index.html
 
+Qual episódio possui maior/menor índice de review de usuários? 
+
+De acordo com nosso banco de dados, The Iron Throne foi o episódio com maior número de reviews de usuários. Esse dado pode ser explicado através do fato de ter sido o último episódio de uma saga que, conforme visto, mobilizou milhões de pessoas. Dessa maneira, a expectativa do público em relação ao episódio mencionado era enorme. O episódio com menor nº de reviews foi The Prince of Winterfell (ep8, temporada2), empatado  com The Climb (ep6, temporada 2). Embora possuam menor número de reviews, ambos os episódios tiveram notas próximas a 9.
+
+Qual episódio com maior/ menor duração?
+
+O episódio de maior duração se chama Long Night (ep3, temporada8), que conta com uma extensa batalha na qual diversos acontecimentos importantes para o enredo são retratados. Os episódios com menor duração são The Red Woman(ep 1, temporada 6), onde também são retratados muitos acontecimentos importantes, mas de forma mais rápida e The Spoils of Wars (ep4, temporada 7) que, embora tenha a menor duração, conta com uma série de batalhas muito aclamadas pela crítica. 
+
+![grafic2](https://user-images.githubusercontent.com/102417680/176802285-ea18d0a1-b773-414a-9b86-f9da7a10cd14.png)
+
+Analisando a média de notas dos expectadores por temporadas, é possível perceber que a ultima temporada, onde houveram mudanças no roteiro e direção, foi a que sofreu uma queda brusca na média de avaliação. 
+
+PRECISA COLOCAR O GRAFICO AQUI, NAO CONSEGUI
+
+Relação de casas, regiões e personagens
+
+Esse gráfico serve para atender ao fandom de GOT. Os fãs de GOT podem se interessar pelo fato de que a região que concentra a maior parte das casas do universo não é a região de onde saem os principais personagens da serie. A região de Westerlands, de onde vem toda a casa Lannister e seus personagens iconicos, seguida da regiao North e toda a legião dos dignos e sofridos Stark, e após a região de Crownlands que é a região governada diretamente por quem ocupa o trono de ferro (sem lord responsável) e de onde saíram os membros da casa Targaryen, são as regiões que nos fornecem o maior numero de atores principais. Vemos que o jogo dos tronos é reflexo de nossa sociedade, onde poucos, geralmente advindos dos mesmos lugares, de acordo com seu background familiar e social, ascendem. Essa relação do universo de fantasia com a nossa sociedade trás apego e torna ainda mais fieis os expectadores que se identifcam com as situações vistas na tela.
+
+PRECISA COLOCAR O GRAFICO AQUI, NAO CONSEGUI
+
+Top 10 Atores que mais aparecem em mais episodios
+
+Nesse grafico é possível ver os 10 atores que mais aparecem em episodios ao longo de toda a serie. Para quem busca formar o elenco de uma nova serie ou filme e deseja um rosto conhecido para valorizar o cartaz de sua produção, nós temos aqui 10 nomes que com certeza atraírão expectadores entre os milhares de fãs de GOT.
+Organizamos esse recurso visual para que possamos associar os atores aos personagens, ordenados de forma decrescente pela quantidade de episodios em que o ator trabalhou.
+
+PRECISA COLOCAR O GRAFICO AQUI, NAO CONSEGUI
+
+Quanto foi gasto nos episódios com nota acima de 9 e quanto nos episódios com nota abaixo de 7
+
+A correlação entre a nota dada ao episódio/temporada e o seu respectivo gasto é o ponto chave desse gráfico e alinha o conceito do que é esperado de um orçamento adequado para produzir uma série dessa magnitude. Podemos perceber pela análise do gráfico que por mais que o orçamento disponível na temporada final tenha crescido, chegando a média de 15 milhões por episódio, a qualidade da avaliação caiu drasticamente da média que vinha se mantendo. Por isso a importância da nossa análise de dados, com o nosso produto você consegue reduzir custos e focar no que realmente importa nessa área, como um bom storytelling e uma conclusão que atenda expectativas ou as supere.
+
+PRECISA COLOCAR O GRAFICO AQUI, NAO CONSEGUI
+
+Qual o ator/atriz mais aparece como estrela principal nos ep com nota acima de 9
+
+É uma tabela semelhante com a de top 10 atores, mas aqui é priorizada a análise qualitativa e não quantitativa, por mais que em alguns pontos muito se correlacione as duas tabelas e tragam alguns resultados positivos é possível notar que podem existir causas para personagens aqui presentes não terem aparecido em tantos episódios, como um fim da sua história ou outros pontos, e devido ao apego dos fãs sobre determinados personagens é explicado a leve queda de nota em episódios que esse personagem já não mais aparecem. Existem outros pontos que podem se correlacionar como a destreza do ator ou atriz em específico em trazer uma boa amarra para a história por meio da sua atuação ou tão somente pelo storytelling do personagem específico ter uma trama forte.
 
 
 <h2>Nossa Equipe</h2>
