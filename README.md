@@ -74,6 +74,8 @@ MySQL
 Bootstrap
 <br>
 Metabase
+<br>
+Docker
 
 
 <h2>Pré-requisitos para utilização</h2>
